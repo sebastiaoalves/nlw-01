@@ -39,6 +39,7 @@
     "babel-preset-expo": "~8.1.0",
     "resize-observer-polyfill": "^1.5.1",
     "typescript": "~3.8.3",
+    "logkitty": ">=0.7.1",
     "mem": ">=4.0.0"
   },
   "private": true
